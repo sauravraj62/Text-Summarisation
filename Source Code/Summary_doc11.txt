@@ -1,0 +1,10 @@
+Swine flu vaccine for adults - Your Health The FREE swine flu vaccine (pandemic H1N1 influenza) is currently available from your doctor’s surgery. 0.895921
+The vaccine is as safe as the seasonal flu vaccine and is made in Australia by CSL Limited. 0.573264
+A second wave of swine flu (pandemic influenza H1N1 2009) is expected in Australia in the next few months and is likely to be more severe than last year’s epidemic. 0.412785
+You cannot catch influenza from the vaccine as it does not contain any ‘live’ flu virus. 0.386966
+Although the swine flu is mild in most cases, it is sometimes severe, especially in younger people. 0.276664
+All people can get vaccinated but some people are more at risk of severe outcomes if they catch this flu. 0.238741
+Vaccination is strongly recommended for:  Is the vaccine safe? 0.221581
+The vaccine is free, although there may be a consultation fee from your doctor. 0.210943
+A single dose of the vaccine is recommended for all adults. 0.202978
+The vaccine takes about 2 weeks to work. 0.187165

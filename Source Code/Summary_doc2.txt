@@ -1,0 +1,10 @@
+Do not receive this vaccine if you have ever had an allergic reaction to a flu vaccine, or: Before you receive H1N1 influenza virus nasal vaccine, tell your doctor if you have: You can still receive a vaccine if you have a cold or fever. 0.997478
+Do not receive this vaccine if you have ever had an allergic reaction to a flu vaccine, if you are under 18 years old and have recently taken aspirin, or if you are allergic to eggs, arginine, or gelatin. 0.573857
+This vaccine will not prevent illness caused by avian flu ("bird flu"). 0.539338
+Influenza virus vaccine, H1N1, live - Side Effects, Dosage, Interactions | Everyday Health  H1N1 influenza is sometimes called "swine flu" because it is usually found in pigs. 0.459688
+Before you receive H1N1 influenza virus nasal vaccine, tell your doctor if you have asthma, a weak immune system, or a history of Guillain-Barré syndrome or neurologic disorder affecting the brain (especially if these were caused by a vaccine). 0.434720
+Like any vaccine, H1N1 influenza virus vaccine may not provide protection from disease in every person. 0.431949
+If you ever have to receive another influenza virus vaccine in the future, you will need to tell the doctor if the first vaccine caused any side effects. 0.426070
+The nasal form of H1N1 influenza virus vaccine is a "live virus" vaccine and may cause you to have mild flu-like symptoms. 0.412507
+H1N1 influenza virus vaccine is also available in an injectable form, which is a "killed virus" vaccine. 0.401480
+The nasal H1N1 influenza virus vaccine is a "live virus" vaccine. 0.397447
